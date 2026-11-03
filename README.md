@@ -85,4 +85,4 @@ Oracle SQL (views, CTEs, window functions), Python (Pandas, NumPy), Google Colab
 
 ## Author
 
-Tanishka Sharma, B.Tech CSE, Vellore Institute of Technology. Course project, BACSE202 Database Systems.
+Tanishka Sharma, B.Tech CSE, Vellore Institute of Technology
